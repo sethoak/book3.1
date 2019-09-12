@@ -1,4 +1,3 @@
-import library from "./library.js";
 /*
     Purpose:
     This code is where a member, Rose, checks out a book.
